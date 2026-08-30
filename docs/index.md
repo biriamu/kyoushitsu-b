@@ -1,9 +1,8 @@
 ---
 icon: lucide/house 
+hide:
+- toc
 ---
-
-# Home
-
 !!! warning
 
     Kyoushitsu B is under heavy development and currently serves as a *Proof of Concept* only. All elements of this page are subject to change at any time.
@@ -12,9 +11,10 @@ icon: lucide/house
 
     Kyoushitsu B is currently looking for new contributors. If you are interested, please join the [Discord server](https://kyoushitsu.biriamu.com) and shoot me a message!
 
-## Welcome to Kyoushitsu B!
+# Home
 
-![alt text](Saki.png)
+![alt text](Saki.webp)
+## Welcome to Kyoushitsu B!
 
 Kyoushitsu B is a Wiki Database for Mobile Rhythm Game Guides!
 

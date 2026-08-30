@@ -11,8 +11,7 @@ repo_name = "biriamu/kyoushitsu-b"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  #{ "Welcome" = "welcome.md" },
-  #{ "Markdown in 5min" = "markdown.md" },
+  #{ "Home" = "index.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
@@ -21,7 +20,7 @@ nav = [
 [project.theme]
 # variant = "classic"
 # custom_dir = "overrides"
-# favicon = "images/favicon.png"
+favicon = "images/student.png"
 language = "en"
 features = [
   "announce.dismiss",
@@ -52,14 +51,14 @@ features = [
   # "toc.integrate",
 ]
 
-# logo = "assets/logo.png"
+logo = "images/128student.png"
 
 # [project.theme.icon]
 # logo = "lucide/smile"
 
-# [project.theme.font]
-# text = "Inter"
-# code = "Jetbrains Mono"
+[project.theme.font]
+text = "LINE Seed JP"
+code = "Jetbrains Mono"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme)"
@@ -78,13 +77,16 @@ scheme = "slate"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to system preference"
 
-# [[project.extra.social]]
-# icon = "fontawesome/brands/github"
-# link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/biriamu/kyoushitsu-b"
 
-# [[project.extra.social]]
-# icon = "fontawesome/brands/mastodon"
-# link = "https://fosstodon.org/@user"
+[[project.extra.social]]
+icon = "fontawesome/brands/discord"
+link = "https://kyoushitsu.biriamu.com"
+
+[project.extra]
+generator = false
 
 [project.markdown_extensions]
 abbr = {}
@@ -96,6 +98,7 @@ md_in_html = {}
 toc.permalink = true
 pymdownx.arithmatex.generic = true
 pymdownx.betterem = {}
+pymdownx.blocks.caption = {}
 pymdownx.caret = {}
 pymdownx.details = {}
 pymdownx.emoji.emoji_generator = "zensical.extensions.emoji.to_svg"
