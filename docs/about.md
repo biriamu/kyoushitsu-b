@@ -1,4 +1,11 @@
-# billiam
+---
+icons: lucide/person
+---
+
+# Team
+![alt text](image.png){ align=left }
+## billiam
+
 
 My name is *billiam*, a [content creator](https://youtube.com/@biriamu) who currently makes Project SEKAI and tech-related content! 
 
@@ -14,4 +21,21 @@ As the creator of Kyoushitsu B, I hope the information found in this Wiki will b
 
 <p> - billiam </p>
 
-![alt text](pfp_bald.webp)
+[YouTube](https://youtube.com/@biriamu){.md-button }
+
+---
+![alt text](rev.webp){ align=left }
+## reverie
+
+Hi I’m reverie but most people know me as rev. I’ve played Project SEKAI for nearly 4 years at this point (Nene Kusanagi and Ena Shinonome are my oshis!) and I sometimes upload my high difficulty achievements to YouTube! I don’t play nearly as much as I used to but it still has a special place in my heart! I’ve also dabbled in Custom Chart making on Sonolus.
+
+Some of my favorite games other than Project SEKAI include: NieR: Automata, Hollow Knight, Scarlet Nexus, and Zenless Zone Zero!
+
+As for anime, my favorites are My Teen Romantic Comedy, 86, and Attack on Titan! Although I rarely watch anime nowadays.
+
+I hope you can use this Wiki to your advantage on your rhythm game journey!
+
+
+[YouTube](https://youtube.com/@reverie5706){.md-button }
+
+---

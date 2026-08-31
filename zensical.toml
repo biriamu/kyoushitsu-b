@@ -11,7 +11,25 @@ repo_name = "biriamu/kyoushitsu-b"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  #{ "Home" = "index.md" },
+  { "Home" = "index.md" },
+  { "General Tips" = [
+    "General Tips/Practice Strategies.md",
+  ] },
+  { "Tech and Accessories" = [
+    "Tech/Picking the Right Device for Rhythm Games.md",
+  ] },
+  { "General Terminology" = [
+    "General Terminology/Notation.md",
+  ] },
+  { "Project SEKAI" = [
+    "Project SEKAI/About.md",
+  ] },
+  { "hololive Dreams" = [
+    "hololive Dreams/About.md",
+  ] },
+  { "Credits" = [
+    "about.md",
+  ] },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
