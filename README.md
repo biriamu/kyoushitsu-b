@@ -2,7 +2,7 @@
 Kyoushitsu B is a Wiki Database for information related to mobile rhythm games. This GitHub repository serves as the underlying code for the Wiki, which is served via Cloudflare Pages.
 
 
-![Tenma Saki](docs/Saki.webp)
+![Tenma Saki](docs/images/Saki.webp)
 
 ## For Contributors
 For those interested in contributing to this project, please join the [Discord server](https://kyoushitsu.biriamu.com/) and shoot me a message!
@@ -17,17 +17,18 @@ For those interested in contributing to this project, please join the [Discord s
 ### Step 1
 - Pull the repository with the URL ```https://github.com/biriamu/kyoushitsu-b``` into the GitHub Desktop application, or with your method of choice.
 ### Step 2
-- Make sure you have the [Zensical](https://zensical.org/docs/get-started/#install-with-pip) plugin installed in a terminal to ensure the code works properly. Follow the "Install with pip" instructions for your respective operating system.
+- In the terminal, change your directory directory to the repository you cloned by entering ```cd ~/path/to/kyoushitsu-b``` on MacOS/Linux, or ```cd C:\path\to\kyoushitsu-b``` on Windows.
+- Install [Zensical](https://zensical.org/docs/get-started/#install-with-pip). Follow the "Install with pip" instructions for your respective operating system.
 ### Step 2
 - In VS Code or VSCodium, open the *kyoushitsu-b* folder
-- Open a new terminal environment in the editor and type ```cd && source .venv/bin/activate``` in Linux/MacOS or ```cd && .venv\Scripts\activate``` in Windows to enter a virtual Python environment.
-- Navigate back to the directory of the local repository with ```cd your/path/kyoushitsu-b```
+- Open a new terminal environment in the editor and type ```source .venv/bin/activate``` in Linux/MacOS or ```.venv\Scripts\activate``` in Windows to enter a virtual Python environment.
 - To view your changes in a live environment on the browser as you edit, open a terminal and type ```zensical serve``` in the directory of the local repository. Then navigate to ```http://localhost:8000/``` in your browser of choice.
+- If an error prevents the page from displaying properly, make sure to also install the Wiki's theme by running ```pip install catppuccin-zensical``` in the terminal.
 - Follow the [Zensical documentation](https://zensical.org/docs/) for more information on changes you can make to the Wiki.
 ### Step 4
 - After you have finished your edits, create a new Pull Request in GitHub Desktop (or in your method of choice) and submit your code to a new branch.
-- The code will be reviewed and merged to the main branch.
+- The code will be reviewed and merged to the main branch after approval.
 
-For questions, please do not hesitate to ask me in the [Discord server](https://kyoushitsu.biriamu.com/)!
+For more questions, please do not hesitate to ask me in the [Discord server](https://kyoushitsu.biriamu.com/)!
 
-Kyoushitsu B is powered by Zensical.
+Kyoushitsu B is powered by [Zensical](https://zensical.org/).
