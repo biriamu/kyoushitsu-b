@@ -21,7 +21,7 @@ For those interested in contributing to this project, please join the [Discord s
 ### Step 2
 - In VS Code or VSCodium, open the *kyoushitsu-b* folder
 - Open a new terminal environment in the editor and type ```cd && source .venv/bin/activate``` in Linux/MacOS or ```cd && .venv\Scripts\activate``` in Windows to enter a virtual Python environment.
-- Navigate back to the directory of the local repository with ```cd your/path/kyoushitu-b```
+- Navigate back to the directory of the local repository with ```cd your/path/kyoushitsu-b```
 - To view your changes in a live environment on the browser as you edit, open a terminal and type ```zensical serve``` in the directory of the local repository. Then navigate to ```http://localhost:8000/``` in your browser of choice.
 - Follow the [Zensical documentation](https://zensical.org/docs/) for more information on changes you can make to the Wiki.
 ### Step 4
