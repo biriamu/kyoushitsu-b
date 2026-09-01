@@ -17,7 +17,7 @@ For those interested in contributing to this project, please join the [Discord s
 ### Step 1
 - Pull the repository with the URL ```https://github.com/biriamu/kyoushitsu-b``` into the GitHub Desktop application, or with your method of choice.
 ### Step 2
-- In the terminal, change your directory directory to the repository you cloned by entering ```cd ~/path/to/kyoushitsu-b``` on MacOS/Linux, or ```cd C:\path\to\kyoushitsu-b``` on Windows.
+- In the terminal, change your directory to the repository you cloned by entering ```cd ~/path/to/kyoushitsu-b``` on MacOS/Linux, or ```cd C:\path\to\kyoushitsu-b``` on Windows.
 - Install [Zensical](https://zensical.org/docs/get-started/#install-with-pip). Follow the "Install with pip" instructions for your respective operating system.
 ### Step 2
 - In VS Code or VSCodium, open the *kyoushitsu-b* folder
