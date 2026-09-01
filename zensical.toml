@@ -13,19 +13,43 @@ repo_name = "biriamu/kyoushitsu-b"
 nav = [
   { "Home" = "index.md" },
   { "General Tips" = [
+    "General Tips/Posture.md",
+    "General Tips/Positioning.md",
     "General Tips/Practice Strategies.md",
   ] },
   { "Tech and Accessories" = [
-    "Tech/Picking the Right Device for Rhythm Games.md",
+    "Tech/Choosing the Right Device.md",
+    "Tech/iOS & iPadOS.md",
+    "Tech/Android.md",
+    "Tech/Accessories.md",
   ] },
   { "General Terminology" = [
     "General Terminology/Notation.md",
+    "General Terminology/Rhythms.md",
   ] },
-  { "Project SEKAI" = [
-    "Project SEKAI/About.md",
-  ] },
-  { "hololive Dreams" = [
-    "hololive Dreams/About.md",
+  { "Games" = [
+      { "Project SEKAI" = [
+        "Games/Project SEKAI/About.md",
+        "Games/Project SEKAI/Mechanics.md",
+        "Games/Project SEKAI/Terms.md",
+              { "Guides" = [
+                "Games/Project SEKAI/Guides/Mechanics.md",    
+                "Games/Project SEKAI/Guides/Songs.md",
+                "Games/Project SEKAI/Guides/Resources.md",    
+                "Games/Project SEKAI/Guides/Extra.md",              
+              ] },
+      ] },
+      { "hololive Dreams" = [
+        "Games/hololive Dreams/About.md",
+        "Games/hololive Dreams/Mechanics.md",
+        "Games/hololive Dreams/Terms.md",
+              { "Guides" = [
+                "Games/hololive Dreams/Guides/Mechanics.md",    
+                "Games/hololive Dreams/Guides/Songs.md",
+                "Games/hololive Dreams/Guides/Resources.md",    
+                "Games/hololive Dreams/Guides/Extra.md",              
+              ] },
+      ] },
   ] },
   { "Credits" = [
     "about.md",
@@ -115,6 +139,10 @@ generator = false
 
 [project.extra.catppuccin]
 signature = false
+
+[project.extra.analytics]
+provider = "google"
+property = "G-M2Q24933W1"
 
 [project.markdown_extensions]
 abbr = {}

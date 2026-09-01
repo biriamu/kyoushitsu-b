@@ -2,7 +2,7 @@
 icons: lucide/person
 ---
 
-# Team
+# Meet the Team
 ![alt text](images/billiam.webp){ align=left }
 ## billiam
 
@@ -21,7 +21,7 @@ As the creator of Kyoushitsu B, I hope the information found in this Wiki will b
 
 <p> - billiam </p>
 
-[YouTube](https://youtube.com/@biriamu){.md-button }
+[YouTube](https://youtube.com/@biriamu){ .md-button }
 
 ---
 ![alt text](images/tpulse.webp){ align=left }
