@@ -3,7 +3,7 @@ icons: lucide/person
 ---
 
 # Team
-![alt text](image.png){ align=left }
+![alt text](images/billiam.webp){ align=left }
 ## billiam
 
 
@@ -24,7 +24,24 @@ As the creator of Kyoushitsu B, I hope the information found in this Wiki will b
 [YouTube](https://youtube.com/@biriamu){.md-button }
 
 ---
-![alt text](rev.webp){ align=left }
+![alt text](images/tpulse.webp){ align=left }
+## Tpulse
+
+Hi! I’m Tpulse, and I’ve played Project SEKAI since July 2023. I’m currently grinding for Full Game AP on the global (en) server. My current highest AP is Marbleblue Append (Lv.37). I also started playing hololive dreams since its release. I have released a few custom charts on holodori and on Sonolus.
+
+Other than Proseka, I also play Genshin Impact and Blue Archive. I’m also a speedcuber (big cube main, so 4x4-7x7).
+
+I’m a very big yuri fan and I recently got into the Love Live franchise. If you want more recommendations, feel free to DM me on discord (thunderingpulse8544)
+Anime recommendations: 86, Lycoris recoil, Cosmic princess kaguya, Bloom into you, Love live
+Manga recommendations: Whisper me a love song, The summer you were there, The anemone feels the heat, Please bully me miss villainess, I want to love you till your dying day
+
+I hope this Wiki can help you improve at rhythm games, no matter your skill level!
+
+
+[YouTube](https://www.youtube.com/@Tpulse8544){.md-button }
+
+---
+![alt text](images/rev.webp){ align=left }
 ## reverie
 
 Hi I’m reverie but most people know me as rev. I’ve played Project SEKAI for nearly 4 years at this point (Nene Kusanagi and Ena Shinonome are my oshis!) and I sometimes upload my high difficulty achievements to YouTube! I don’t play nearly as much as I used to but it still has a special place in my heart! I’ve also dabbled in Custom Chart making on Sonolus.
@@ -39,3 +56,4 @@ I hope you can use this Wiki to your advantage on your rhythm game journey!
 [YouTube](https://youtube.com/@reverie5706){.md-button }
 
 ---
+
